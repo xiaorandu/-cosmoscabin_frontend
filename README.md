@@ -1,4 +1,4 @@
-### CosmosCabin: A Geolocation-based Full Stack Cabin Vacation Rental Web Application  
+## CosmosCabin: A Geolocation-based Full Stack Cabin Vacation Rental Web Application  
   Link to backend depository: https://github.com/xiaorandu/cosmoscabin_backend
 
 ### Getting Started with Create React App
